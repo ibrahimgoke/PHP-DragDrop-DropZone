@@ -1,2 +1,2 @@
-# PHP-DragDrop-DronZone
-PHP-DragDrop-DronZone
+# PHP-DragDrop-DropZone
+PHP-DragDrop-DropZone
